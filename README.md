@@ -30,3 +30,5 @@ Our target audience includes anyone with an interest in the NBA from old to youn
   - jQuery, NoSQL, JSON, ExpressJS
 - Node.JS
 - Bootstrap, Bulma framework
+
+![Image Of Index Page Signed In](screencapture-quatroah-web-app-2019-12-12-14_32_38.png)
