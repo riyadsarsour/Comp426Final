@@ -31,4 +31,6 @@ Our target audience includes anyone with an interest in the NBA from old to youn
 - Node.JS
 - Bootstrap, Bulma framework
 
+## Screenshot of Interface of Index Page
 ![Image Of Index Page Signed In](screencapture-quatroah-web-app-2019-12-12-14_32_38.png)
+![Image Of Index Page Not Signed In](screencapture-quatroah-web-app-2019-12-12-14_34_48.png)
